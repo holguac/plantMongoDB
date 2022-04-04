@@ -1,4 +1,4 @@
-const Plant = require("../methods/plants");
+const Plant = require("../attributes/plants");
 
 const findPlant = async (argv) => {
   try {
