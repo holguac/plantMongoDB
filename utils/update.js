@@ -1,4 +1,4 @@
-const Plant = require("../attributes/plants");
+const Plant = require("../models/plants");
 
 const updatePlant = async (argv) => {
   try {

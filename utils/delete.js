@@ -1,4 +1,4 @@
-const Plant = require("../attributes/plants");
+const Plant = require("../models/plants");
 
 const deletePlant = async (argv) => {
   try {

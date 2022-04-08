@@ -1,4 +1,4 @@
-const Plant = require("../attributes/plants");
+const Plant = require("../models/plants");
 
 const addPlant = async ({ name, fact, botanicalName, light, careLevel }) => {
   try {
